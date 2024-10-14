@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^10.7.3"
+  },
+  "name": "integration-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "sinon": "^19.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
